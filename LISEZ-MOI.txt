@@ -1,13 +1,4 @@
-AéroBalance — V1.19 — Hébergement web
+AéroBalance — V1.27
 
-INSTALLATION
-1. Décompressez l’archive.
-2. Envoyez index.html dans le dossier public de votre hébergement (souvent public_html, www ou htdocs), ou dans un sous-dossier de votre choix.
-3. Ouvrez l’adresse de votre site ou de ce sous-dossier.
-
-Le seul fichier nécessaire au fonctionnement est index.html. Il contient le style, les illustrations, les traductions et la bibliothèque PDF. Aucune base de données, installation Python/Node ou compilation n’est nécessaire. Cet hébergement doit accepter les fichiers HTML statiques et JavaScript.
-
-UTILISATION
-Les modèles sont mémorisés dans le navigateur de chaque utilisateur. Ils ne sont pas synchronisés entre ordinateurs. Enregistrer / Enregistrer sous permettent de conserver une feuille dans un fichier HTML. Le PDF se crée dans le navigateur. Selon le navigateur, les fichiers sont téléchargés ou enregistrés à l’emplacement choisi. HTTPS est recommandé pour les fonctions de choix de fichier.
-
-Une mise à jour consiste à remplacer index.html par le fichier de la nouvelle version.
+Déposez index.html dans le dossier public de votre hébergement web. Tout est intégré dans ce fichier, sans installation ni base de données.
+Les modèles sont mémorisés dans le navigateur. Utilisez Enregistrer sous pour conserver une feuille.
