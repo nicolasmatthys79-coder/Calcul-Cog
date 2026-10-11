@@ -1,4 +1,4 @@
-AéroBalance — V1.2 — Hébergement web
+AéroBalance — V1.3 — Hébergement web
 
 INSTALLATION
 1. Décompressez l’archive.
