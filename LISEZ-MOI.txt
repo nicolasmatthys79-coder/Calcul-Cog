@@ -1,4 +1,3 @@
-AéroBalance — V1.27
-
-Déposez index.html dans le dossier public de votre hébergement web. Tout est intégré dans ce fichier, sans installation ni base de données.
-Les modèles sont mémorisés dans le navigateur. Utilisez Enregistrer sous pour conserver une feuille.
+AéroBalance V1.35
+Déposez index.html dans le dossier public de votre hébergement. Tout est intégré, sans installation ni base de données.
+Le menu Calcul COG cordes moyenne aile reprend les formules et les tracés du classeur cog_geometrie_aile.xlsx.
