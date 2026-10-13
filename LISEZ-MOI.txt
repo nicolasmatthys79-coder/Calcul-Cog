@@ -1,8 +1,8 @@
-AéroBalance V1.77
+AéroBalance V1.80
 Déposez index.html dans le dossier public de votre hébergement. Tout est intégré, sans installation ni base de données.
 Le menu Calcul COG cordes moyenne aile reprend les formules et les tracés du classeur cog_geometrie_aile.xlsx.
 
-V1.77 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
+V1.80 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
 
 Les balances estimées avec lest sont affichées à droite du modèle dans le cadre de l’illustration.
 
@@ -77,3 +77,9 @@ Cote B du modèle classique rapprochée de la cote CoG ; balances avec lest main
 Espacement augmenté entre les cotes B et CoG pour préserver la lisibilité des textes.
 
 Espacement automatique entre la cote B, son texte et le bloc Avec lest, selon leurs dimensions réelles.
+
+Ensemble planeur, cotes et balances avec lest centré horizontalement et verticalement dans le cadre, avec adaptation à sa taille.
+
+Planeur : verrière avant unique alignée exactement sur la courbe du fuselage ; nez et origine des cotations alignés.
+
+Bas de la verrière du planeur remonté vers le milieu du fuselage.
