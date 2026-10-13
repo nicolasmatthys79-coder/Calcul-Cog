@@ -1,4 +1,4 @@
-AéroBalance V1.98 — Installation et utilisation hors connexion
+AéroBalance V1.99 — Installation et utilisation hors connexion
 
 Déposez index.html ET sw.js ensemble dans le même dossier de votre hébergement HTTPS.
 Ouvrez le site une première fois avec Internet et attendez « Disponible hors connexion » en bas de page.
@@ -37,3 +37,5 @@ Smartphone : champs A, B, C, D et CoG recherché de même largeur, alignés vert
 Paragraphe explicatif de la distance de centrage supprimé sous l’illustration.
 
 Ampoule dans Poids mesurés et aide : pesée successive de chaque appui avec une seule balance et des cales de même hauteur. Texte disponible dans les quatre langues.
+
+Titre Géométrie du planeur dans le mode planeur, traduit dans les quatre langues.
