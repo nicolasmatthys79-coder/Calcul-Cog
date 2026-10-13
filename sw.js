@@ -1,15 +1,16 @@
-const CACHE='aerobalance-offline-v1.100';
+const CACHE='aerobalance-offline-v1.101';
 const APP=new URL('index.html',self.registration.scope).href;
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const response=await fetch(APP,{cache:'reload'});if(!response.ok)throw new Error('Application unavailable');
- const cache=await caches.open(CACHE);await cache.put(APP,response);await self.skipWaiting();
+ const cache=await caches.open(CACHE);await cache.put(APP,response);await cache.addAll(['apple-touch-icon.png','icon-192.png','icon-512.png','manifest.webmanifest'].map(path=>new URL(path,self.registration.scope).href));await self.skipWaiting();
 })()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{
  for(const key of await caches.keys())if(key.startsWith('aerobalance-offline-')&&key!==CACHE)await caches.delete(key);
  await self.clients.claim();
 })()));
 self.addEventListener('fetch',event=>{
- if(event.request.method!=='GET'||event.request.mode!=='navigate')return;
+ if(event.request.method!=='GET')return;
+ if(event.request.mode!=='navigate'){const url=new URL(event.request.url);if(['apple-touch-icon.png','icon-192.png','icon-512.png','manifest.webmanifest'].some(name=>url.href===new URL(name,self.registration.scope).href))event.respondWith((async()=>{const cache=await caches.open(CACHE);return await cache.match(event.request)||fetch(event.request);})());return;}
  const url=new URL(event.request.url);if(url.origin!==self.location.origin||!url.href.startsWith(self.registration.scope))return;
  if(url.pathname!==new URL(APP).pathname&&url.pathname!==new URL(self.registration.scope).pathname)return;
  event.respondWith((async()=>{
