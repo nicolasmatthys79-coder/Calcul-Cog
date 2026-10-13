@@ -1,4 +1,4 @@
-AéroBalance V1.83 — Installation et utilisation hors connexion
+AéroBalance V1.93 — Installation et utilisation hors connexion
 
 Déposez index.html ET sw.js ensemble dans le même dossier de votre hébergement HTTPS.
 Ouvrez le site une première fois avec Internet et attendez « Disponible hors connexion » en bas de page.
@@ -7,3 +7,23 @@ Les calculs, illustrations, langues et enregistrements locaux restent disponible
 Les modèles restent dans le navigateur de cet appareil. Effacer les données du site supprime aussi le cache hors connexion.
 Les nouvelles versions sont récupérées lorsque la connexion revient.
 Le fichier index.html téléchargé reste également utilisable directement sans Internet.
+
+Lest nécessaire en F placé directement sous le champ F, dans la même colonne, pour tous les modèles et tailles d’écran.
+
+Sur smartphone (jusqu’à 600 px), les variables du lest de correction sont disposées dans une seule colonne et les champs alignés verticalement.
+
+Smartphone : libellés à gauche et valeurs alignées dans une colonne à droite dans le lest de correction.
+
+Description de la position du lest raccourcie : Nez → arrière.
+
+Texte Lest nécessaire en F et explication remis à gauche du bloc ; résultat conservé dans la colonne F.
+
+Bloc des variables du lest compacté : marges et espacements verticaux réduits sur ordinateur et smartphone.
+
+Valeur F et résultat du lest nécessaire alignés verticalement.
+
+Alignement des chiffres de F et du lest nécessaire avec une colonne distincte pour les unités.
+
+Champs du lest réduits à 102 px ; valeurs et unités rapprochées, colonnes identiques pour F et le lest nécessaire.
+
+Suppression de l’ancienne limite de largeur de la ligne du lest nécessaire : résultat aligné avec la colonne F.
