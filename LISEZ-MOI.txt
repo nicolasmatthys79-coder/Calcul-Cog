@@ -1,8 +1,8 @@
-AéroBalance V1.53
+AéroBalance V1.77
 Déposez index.html dans le dossier public de votre hébergement. Tout est intégré, sans installation ni base de données.
 Le menu Calcul COG cordes moyenne aile reprend les formules et les tracés du classeur cog_geometrie_aile.xlsx.
 
-V1.53 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
+V1.77 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
 
 Les balances estimées avec lest sont affichées à droite du modèle dans le cadre de l’illustration.
 
@@ -29,3 +29,51 @@ Suppression du récapitulatif Sans lest depuis le nez et masse ajoutée.
 Affichage harmonisé du CG depuis le bord d’attaque et du centrage sur le fuselage pour les trois modèles.
 
 Avertissement unique Basculement!!! au-dessus de Avec lest dès qu’une valeur de balance calculée est négative, pour tous les modèles.
+
+Numéro 1 déplacé à gauche de la roue et de sa balance sous le planeur.
+
+Numéro 1 à gauche de la roue pour les modèles tricycle et classique ; position du planeur rétablie.
+
+Balances avec lest harmonisées : dimensions et police indépendantes de l’échelle du dessin, mêmes blocs pour les trois modèles.
+
+Cote E rapprochée du modèle ; cote du bord d’attaque déplacée automatiquement pour éviter les balances sur les vues de dessus.
+
+Cote E encore légèrement rapprochée de l’avion.
+
+Balances avec lest : kilogrammes avec deux chiffres significatifs à partir de 1 000 g en valeur absolue, grammes en dessous.
+
+Lest nécessaire en F : affichage en kg avec deux décimales à partir de 1 000 g. Le champ F reste saisi en grammes.
+
+Balances avec lest : valeurs en kg affichées avec deux chiffres après la virgule.
+
+Valeur de la cote C placée sous le trait et les flèches pour les modèles tricycle et classique.
+
+C0G remplacé par CoG dans le programme et les traductions.
+
+Notation CoG harmonisée dans les illustrations et les textes du programme.
+
+Cote E du planeur abaissée légèrement pour éviter le chevauchement avec le libellé de l’appui avant.
+
+Libellé E · Nez → lest placé à droite du bloc du lest dans la vue du planeur.
+
+Le groupe Avec lest et les deux balances suit le contact arrière du planeur, juste à sa droite.
+
+Groupe Avec lest centré à mi-hauteur entre le contact arrière et la flèche de la cote B du planeur.
+
+Illustration centrée automatiquement sur ses limites visibles avec des marges latérales symétriques.
+
+Centrage de l’ensemble du dessin, des cotes et des balances avec lest dans un cadre commun pour tous les modèles.
+
+Cote E légèrement rapprochée de la cote A sur les modèles tricycle et classique.
+
+Cote E encore rapprochée de la cote A.
+
+Cote B du modèle classique placée automatiquement au-delà des balances avec lest pour éviter leur chevauchement.
+
+Cote B du modèle classique placée à gauche du bloc Avec lest, avec un espace entre la cote et les balances.
+
+Cote B du modèle classique rapprochée de la cote CoG ; balances avec lest maintenues à droite.
+
+Espacement augmenté entre les cotes B et CoG pour préserver la lisibilité des textes.
+
+Espacement automatique entre la cote B, son texte et le bloc Avec lest, selon leurs dimensions réelles.
