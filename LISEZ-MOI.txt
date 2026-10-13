@@ -1,8 +1,8 @@
-AéroBalance V1.52
+AéroBalance V1.53
 Déposez index.html dans le dossier public de votre hébergement. Tout est intégré, sans installation ni base de données.
 Le menu Calcul COG cordes moyenne aile reprend les formules et les tracés du classeur cog_geometrie_aile.xlsx.
 
-V1.52 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
+V1.53 : nouvelles valeurs estimées des balances après ajout du lest, affichées à droite des poids mesurés.
 
 Les balances estimées avec lest sont affichées à droite du modèle dans le cadre de l’illustration.
 
@@ -27,3 +27,5 @@ Basculement!!! apparaît aussi sous la balance 3 avec lest lorsque sa valeur est
 Suppression du récapitulatif Sans lest depuis le nez et masse ajoutée.
 
 Affichage harmonisé du CG depuis le bord d’attaque et du centrage sur le fuselage pour les trois modèles.
+
+Avertissement unique Basculement!!! au-dessus de Avec lest dès qu’une valeur de balance calculée est négative, pour tous les modèles.
