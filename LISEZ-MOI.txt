@@ -1,19 +1,5 @@
-AeroCentrix V2.18
+AeroCentrix V2.20
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-Nouveau : choix 1 lest / 2 lests. E′, F′ et G′ définissent le second lest. Le résultat sous G indique le décalage du premier lest pour recentrer sur l’axe, en tenant compte du second. Le calcul du lest nécessaire en F tient également compte du second lest.
-Les positions E sont depuis le nez en mm, F en grammes, G en mm (positif à droite, négatif à gauche). G est masqué pour le planeur. Les deux lests sont ajoutés après la pesée et enregistrés avec chaque modèle.
-
-Choix du nombre de lests sous forme d’interrupteur : désactivé = 1 lest, activé = 2 lests.
-
-Écart nécessaire en G et lest nécessaire en F réunis sur la même ligne de résultats sur ordinateur ; disposition verticale sur smartphone.
-
-Résultats F et G directement sous les variables du premier lest, avant les variables du second.
-
-Sous le deuxième lest : masse nécessaire en F′ à la position E′ et écart nécessaire en G′ pour recentrer, en tenant compte du premier lest.
-
-Mode deux lests : seul le second lest propose F′ et G′, calculés à partir de la pesée et du premier lest. G′ utilise la masse recommandée F′ pour corriger simultanément le centrage longitudinal et latéral.
-
-Correction G′ : utilise la masse saisie F′ si elle est positive ; sinon la masse recommandée. Une masse recommandée inférieure à 0,05 g affiche Masse F′ insuffisante au lieu de diviser par une masse qui serait affichée 0 g.
-
-Entrée dans les champs de calcul valide les variables, remplace les champs numériques vides par zéro, recalcule les résultats et conserve les valeurs du modèle.
+Tous les noms affichés, le titre de la page, le nom du raccourci et les noms par défaut des exports sont AeroCentrix. Les anciennes données restent accessibles.
+Pour actualiser un raccourci smartphone existant : supprimez-le, ouvrez le site actualisé et ajoutez-le à nouveau à l’écran d’accueil. Son icône reste AC sur fond bleu.

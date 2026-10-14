@@ -1,6 +1,6 @@
 {
   "name": "AeroCentrix",
-  "short_name": "AC",
+  "short_name": "AeroCentrix",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
@@ -9,13 +9,13 @@
   "theme_color": "#0068ad",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "ac-blue-192-v2-19.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "ac-blue-512-v2-19.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
