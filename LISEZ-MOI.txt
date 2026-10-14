@@ -1,5 +1,9 @@
-AéroBalance V1.101
+AéroBalance V1.103
 
 Déposez tous les fichiers de ce dossier ensemble sur votre hébergement HTTPS.
 Icône AB ajoutée pour les raccourcis Android et iPhone. Après la mise à jour du site, supprimez l’ancien raccourci et ajoutez à nouveau la page à l’écran d’accueil pour actualiser son icône.
 Ouvrez une première fois le site avec Internet et attendez Disponible hors connexion pour pouvoir le rouvrir sans connexion dans le même navigateur.
+
+Logo AeroCentrix fourni intégré directement dans la page à la place du titre Aéro Balance. Disponible hors connexion et dans les feuilles enregistrées.
+
+Interface et illustrations harmonisées dans des nuances de bleu assorties au logo AeroCentrix. Avertissements rouges et ampoules jaunes conservés.
