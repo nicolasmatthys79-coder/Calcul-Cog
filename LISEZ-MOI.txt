@@ -1,5 +1,9 @@
-AeroCentrix V2.20
+AeroCentrix V2.22
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Tous les noms affichés, le titre de la page, le nom du raccourci et les noms par défaut des exports sont AeroCentrix. Les anciennes données restent accessibles.
 Pour actualiser un raccourci smartphone existant : supprimez-le, ouvrez le site actualisé et ajoutez-le à nouveau à l’écran d’accueil. Son icône reste AC sur fond bleu.
+
+Noms des onglets par défaut : Nom 1, Nom 2, Nom 3, etc.
+
+Nom par défaut des onglets : Nom modèle.
