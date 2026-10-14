@@ -1,4 +1,4 @@
-AeroCentrix V2.22
+AeroCentrix V2.24
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Tous les noms affichés, le titre de la page, le nom du raccourci et les noms par défaut des exports sont AeroCentrix. Les anciennes données restent accessibles.
@@ -7,3 +7,7 @@ Pour actualiser un raccourci smartphone existant : supprimez-le, ouvrez le site 
 Noms des onglets par défaut : Nom 1, Nom 2, Nom 3, etc.
 
 Nom par défaut des onglets : Nom modèle.
+
+Confirmation lors du changement d’onglet : Changer de modèle ? Oui/Non. Confirmation lors du changement Tricycle/Classique/Planeur : Changer type de modèle ?
+
+Confirmation de changement Tricycle/Classique/Planeur : Changer type d’appui ?
