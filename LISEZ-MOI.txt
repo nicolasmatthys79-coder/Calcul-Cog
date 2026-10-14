@@ -1,27 +1,19 @@
-AéroBalance V2.9
+AeroCentrix V2.18
 
-Déposez tous les fichiers de ce dossier ensemble sur votre hébergement HTTPS.
-Icône AB ajoutée pour les raccourcis Android et iPhone. Après la mise à jour du site, supprimez l’ancien raccourci et ajoutez à nouveau la page à l’écran d’accueil pour actualiser son icône.
-Ouvrez une première fois le site avec Internet et attendez Disponible hors connexion pour pouvoir le rouvrir sans connexion dans le même navigateur.
+Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
+Nouveau : choix 1 lest / 2 lests. E′, F′ et G′ définissent le second lest. Le résultat sous G indique le décalage du premier lest pour recentrer sur l’axe, en tenant compte du second. Le calcul du lest nécessaire en F tient également compte du second lest.
+Les positions E sont depuis le nez en mm, F en grammes, G en mm (positif à droite, négatif à gauche). G est masqué pour le planeur. Les deux lests sont ajoutés après la pesée et enregistrés avec chaque modèle.
 
-Logo AeroCentrix fourni intégré directement dans la page à la place du titre Aéro Balance. Disponible hors connexion et dans les feuilles enregistrées.
+Choix du nombre de lests sous forme d’interrupteur : désactivé = 1 lest, activé = 2 lests.
 
-Interface et illustrations harmonisées dans des nuances de bleu assorties au logo AeroCentrix. Avertissements rouges et ampoules jaunes conservés.
+Écart nécessaire en G et lest nécessaire en F réunis sur la même ligne de résultats sur ordinateur ; disposition verticale sur smartphone.
 
-Nouvelle numérotation : V2.9, puis V2.9, V2.9, etc., à chaque modification.
+Résultats F et G directement sous les variables du premier lest, avant les variables du second.
 
-Description Style Cessna supprimée du mode tricycle.
+Sous le deuxième lest : masse nécessaire en F′ à la position E′ et écart nécessaire en G′ pour recentrer, en tenant compte du premier lest.
 
-Nom du programme corrigé dans le pied de page : AEROCENTRIX / Mesurer. Équilibrer. Voler.
+Mode deux lests : seul le second lest propose F′ et G′, calculés à partir de la pesée et du premier lest. G′ utilise la masse recommandée F′ pour corriger simultanément le centrage longitudinal et latéral.
 
-Message Renseignez E > 0 mm maintenu sur une seule ligne.
+Correction G′ : utilise la masse saisie F′ si elle est positive ; sinon la masse recommandée. Une masse recommandée inférieure à 0,05 g affiche Masse F′ insuffisante au lieu de diviser par une masse qui serait affichée 0 g.
 
-Message Impossible à cette position E maintenu sur une seule ligne.
-
-Description Deux roues principales à l’avant, une roulette à l’arrière supprimée du mode classique.
-
-Texte Train symétrique autour du fuselage supprimé sous la variable C.
-
-Police des valeurs des balances Avec lest agrandie et afficheurs élargis pour la lisibilité.
-
-Police des valeurs Avec lest renforcée dans la vue du planeur.
+Entrée dans les champs de calcul valide les variables, remplace les champs numériques vides par zéro, recalcule les résultats et conserve les valeurs du modèle.
