@@ -1,16 +1,12 @@
-AeroCentrix V2.46
+AeroCentrix V2.53
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-Menu Tactile : Dimensions (saisie des cotes et déplacement aile/lests), Position roues (déplacement des roues). Les deux choix sont activables indépendamment et marqués par une coche. Le bouton Tactile de l’illustration ouvre le même menu. Désactiver les deux désactive le tactile ; le zoom à deux doigts reste disponible.
+CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
 
-Menu Tactile harmonisé avec Petit Avion / Gros Avion : sous-menu intégré juste sous la ligne du menu, avec trait bleu à gauche et choix cochés.
+Coche retirée du texte Tactile On dans l’illustration.
 
-Rectangle CoG recherché à gauche de Erreur de CoG, affichage valeur recherchée / erreur. Modifiable au toucher lorsque Dimensions est activé.
+Comment ça marche : explications des choix du menu, modes tactiles Dimensions et Position roues, zoom et déplacement, unités, fichiers, PDF, langues et calcul de l’aile, dans les quatre langues.
 
-Rectangle Erreur de CoG supprimé. Rectangle unique CoG recherché : valeur / erreur avec la police de l’ancien rectangle et erreur en rouge.
+Consigne sous les poids mesurés du planeur supprimée, ainsi que son encadré vide.
 
-Police CoG recherché agrandie de 12 à 15 avec adaptation du rectangle.
-
-Tactile On/Off dans l’illustration : indicateur non cliquable reflétant les réglages du menu.
-
-Un doigt sur une zone non éditable déplace l’ensemble de l’illustration sans changer les variables, avec ou sans tactile. Les éléments éditables conservent leur fonction. Deux doigts : zoom. ↺ : cadrage initial.
+Cliquer, toucher ou accéder au clavier à un champ numérique sélectionne sa valeur pour la remplacer directement.
