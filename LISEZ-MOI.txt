@@ -1,16 +1,12 @@
-AeroCentrix V2.39
+AeroCentrix V2.44
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-Choix des modèles : Avion ou Planeur. Le type de train Tricycle/Classique est déterminé automatiquement par les positions A et B ; il ne nécessite plus de choix manuel.
+Menu Tactile : Dimensions (saisie des cotes et déplacement aile/lests), Position roues (déplacement des roues). Les deux choix sont activables indépendamment et marqués par une coche. Le bouton Tactile de l’illustration ouvre le même menu. Désactiver les deux désactive le tactile ; le zoom à deux doigts reste disponible.
 
-Confirmation : Changer type d’aéronef ?
+Menu Tactile harmonisé avec Petit Avion / Gros Avion : sous-menu intégré juste sous la ligne du menu, avec trait bleu à gauche et choix cochés.
 
-Mode tactile : bouton Réduire/Afficher dimensions et poids pour replier le panneau initial sans perdre les valeurs. Désactiver le tactile réaffiche le panneau.
+Rectangle CoG recherché à gauche de Erreur de CoG, affichage valeur recherchée / erreur. Modifiable au toucher lorsque Dimensions est activé.
 
-Bouton de réduction compact à droite de Avion / Planeur, sur la même ligne. Le choix du type reste visible lorsque les dimensions et poids sont repliés.
+Rectangle Erreur de CoG supprimé. Rectangle unique CoG recherché : valeur / erreur avec la police de l’ancien rectangle et erreur en rouge.
 
-Tactile : toucher l’afficheur ou le poids d’une balance mesurée pour modifier sa valeur. Saisie en g ou kg selon le mode, puis recalcul du CoG et des balances avec lest.
-
-Rectangle Erreur de CoG en rouge au-dessus du repère Nez dans l’illustration, avec la valeur mise à jour.
-
-Rectangle Erreur de CoG toujours visible, indépendamment du mode tactile, et réaffiché au changement On/Off.
+Police CoG recherché agrandie de 12 à 15 avec adaptation du rectangle.
