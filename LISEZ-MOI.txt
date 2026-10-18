@@ -1,13 +1,9 @@
-AeroCentrix V2.24
+AeroCentrix V2.29
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-Tous les noms affichés, le titre de la page, le nom du raccourci et les noms par défaut des exports sont AeroCentrix. Les anciennes données restent accessibles.
-Pour actualiser un raccourci smartphone existant : supprimez-le, ouvrez le site actualisé et ajoutez-le à nouveau à l’écran d’accueil. Son icône reste AC sur fond bleu.
+Menu → Petit Avion / Gros Avion : champs de poids en grammes ou kilogrammes. Gros Avion affiche deux chiffres significatifs. Conversion automatique des champs lors du changement. Le calcul et les sauvegardes utilisent les grammes en interne.
+Les champs numériques sont limités à 10 000 dans leur unité de saisie. Les écarts latéraux autorisent de −10 000 à +10 000 mm.
 
-Noms des onglets par défaut : Nom 1, Nom 2, Nom 3, etc.
+Mode Gros Avion : poids total et poids du lest dans l’illustration harmonisés en kg avec deux chiffres significatifs, y compris les valeurs inférieures à 1 kg.
 
-Nom par défaut des onglets : Nom modèle.
-
-Confirmation lors du changement d’onglet : Changer de modèle ? Oui/Non. Confirmation lors du changement Tricycle/Classique/Planeur : Changer type de modèle ?
-
-Confirmation de changement Tricycle/Classique/Planeur : Changer type d’appui ?
+Gros Avion : poids en kg avec deux chiffres après la virgule, par exemple 2,66 kg.
