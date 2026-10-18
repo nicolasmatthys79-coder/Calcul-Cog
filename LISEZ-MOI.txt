@@ -1,9 +1,16 @@
-AeroCentrix V2.29
+AeroCentrix V2.39
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-Menu → Petit Avion / Gros Avion : champs de poids en grammes ou kilogrammes. Gros Avion affiche deux chiffres significatifs. Conversion automatique des champs lors du changement. Le calcul et les sauvegardes utilisent les grammes en interne.
-Les champs numériques sont limités à 10 000 dans leur unité de saisie. Les écarts latéraux autorisent de −10 000 à +10 000 mm.
+Choix des modèles : Avion ou Planeur. Le type de train Tricycle/Classique est déterminé automatiquement par les positions A et B ; il ne nécessite plus de choix manuel.
 
-Mode Gros Avion : poids total et poids du lest dans l’illustration harmonisés en kg avec deux chiffres significatifs, y compris les valeurs inférieures à 1 kg.
+Confirmation : Changer type d’aéronef ?
 
-Gros Avion : poids en kg avec deux chiffres après la virgule, par exemple 2,66 kg.
+Mode tactile : bouton Réduire/Afficher dimensions et poids pour replier le panneau initial sans perdre les valeurs. Désactiver le tactile réaffiche le panneau.
+
+Bouton de réduction compact à droite de Avion / Planeur, sur la même ligne. Le choix du type reste visible lorsque les dimensions et poids sont repliés.
+
+Tactile : toucher l’afficheur ou le poids d’une balance mesurée pour modifier sa valeur. Saisie en g ou kg selon le mode, puis recalcul du CoG et des balances avec lest.
+
+Rectangle Erreur de CoG en rouge au-dessus du repère Nez dans l’illustration, avec la valeur mise à jour.
+
+Rectangle Erreur de CoG toujours visible, indépendamment du mode tactile, et réaffiché au changement On/Off.
