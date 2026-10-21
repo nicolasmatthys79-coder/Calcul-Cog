@@ -1,4 +1,4 @@
-AeroCentrix V2.83
+AeroCentrix V2.90
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -70,3 +70,15 @@ Aide harmonisée : encadrés bleus retirés, titres sobres, espacements régulie
 Smartphone : police des résultats de position, masse et écart nécessaires harmonisée à 16 px, même graisse et même interligne pour les deux lests.
 
 Aide Choisir le modèle actualisée : Avion / Planeur, détection automatique du train selon A et B, création via +/−, dans les quatre langues.
+
+Barres de défilement bleues assorties à l’interface, selon la prise en charge du navigateur.
+
+Affichage permanent demandé pour la barre de défilement de la page et des grandes fenêtres, avec emplacement réservé. Les réglages système des barres superposées peuvent primer.
+
+Retour à la présentation antérieure : barre de défilement intégrée de V2.86 retirée.
+
+Smartphone : unité mm maintenue à côté de l’erreur ; taille du texte adaptée à la largeur du rectangle CoG.
+
+Bandeau toujours ordonné : flèche, type de train, CoG recherché / erreur, tactile. Mise en page adaptée aussi au smartphone.
+
+Si le cadre d’illustration est étroit, le rectangle CoG recherché / erreur passe sur la ligne du dessous et reste centré.
