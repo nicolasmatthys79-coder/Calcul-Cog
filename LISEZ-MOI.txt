@@ -1,4 +1,4 @@
-AeroCentrix V2.61
+AeroCentrix V2.65
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -26,3 +26,11 @@ Libellé corde moyenne corrigé au singulier.
 Bouton plein écran en bas à droite : affiche uniquement le cadre de l’illustration. Smartphone en portrait : rotation 90°. Second appui : retour à la page normale et à sa position de défilement.
 
 Cadre d’illustration à hauteur automatique selon sa largeur et les proportions du dessin, sans hauteur minimale fixe. Adaptation avion et planeur ; plein écran conservé.
+
+Zoom en mode normal : le cadrage vertical inclut toute la hauteur du dessin et des cotes. Le cadre grandit avec le zoom pour garder la queue visible. Le plein écran conserve sa hauteur d’écran.
+
+Tactile Dimensions : appui simple sur un carré bleu du lest ouvre son poids F ou F′ ; glisser le carré conserve le déplacement du lest.
+
+Plein écran : CoG recherché, train et état tactile alignés sur une seule ligne en haut pour augmenter l’espace du dessin.
+
+Groupe des balances Avec lest remonté : titre aligné avec le haut de la cote B (vue de dessus) ou son libellé (planeur).
