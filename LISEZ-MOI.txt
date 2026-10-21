@@ -1,4 +1,4 @@
-AeroCentrix V2.81
+AeroCentrix V2.82
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -66,3 +66,5 @@ Aide sur les corrections du lest répartie en cinq petits chapitres avec titres 
 Les choix du menu organisés en petits chapitres avec titres et encadrés bleus, dans les quatre langues.
 
 Aide harmonisée : encadrés bleus retirés, titres sobres, espacements réguliers et séparateurs fins.
+
+Smartphone : police des résultats de position, masse et écart nécessaires harmonisée à 16 px, même graisse et même interligne pour les deux lests.
