@@ -1,4 +1,4 @@
-AeroCentrix V2.109
+AeroCentrix V2.110
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -39,3 +39,5 @@ La ligne de cote du lest s’interrompt aussi au passage du poids affiché dans 
 Aide : explications sur les arrondis et les écarts résiduels des balances Avec lest, exemple chiffré et distinction avec le basculement, dans les quatre langues.
 
 Coche verte à droite du CoG depuis le bord d’attaque lorsque l’erreur affichée atteint 0 mm (tolérance de 0,05 mm).
+
+Consigne sous les poids mesurés de l’avion supprimée.
