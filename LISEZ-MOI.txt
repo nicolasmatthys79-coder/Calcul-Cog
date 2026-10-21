@@ -1,4 +1,4 @@
-AeroCentrix V2.53
+AeroCentrix V2.61
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -10,3 +10,19 @@ Comment ça marche : explications des choix du menu, modes tactiles Dimensions e
 Consigne sous les poids mesurés du planeur supprimée, ainsi que son encadré vide.
 
 Cliquer, toucher ou accéder au clavier à un champ numérique sélectionne sa valeur pour la remplacer directement.
+
+Description Planeur vu de côté supprimée et séparateur sous la description retiré.
+
+Flèche de réinitialisation du cadrage déplacée en haut à gauche de l’illustration ; indication du train décalée pour éviter le chevauchement.
+
+Message Impossible à cette position E ou E′ affiché sur plusieurs lignes dans sa colonne pour éviter le chevauchement avec le texte à gauche.
+
+Bouton de réduction aligné sur la même hauteur que les boutons Avion et Planeur (40 px).
+
+Coche affichée devant le choix actif Petit Avion ou Gros Avion dans le menu.
+
+Libellé corde moyenne corrigé au singulier.
+
+Bouton plein écran en bas à droite : affiche uniquement le cadre de l’illustration. Smartphone en portrait : rotation 90°. Second appui : retour à la page normale et à sa position de défilement.
+
+Cadre d’illustration à hauteur automatique selon sa largeur et les proportions du dessin, sans hauteur minimale fixe. Adaptation avion et planeur ; plein écran conservé.
