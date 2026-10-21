@@ -1,4 +1,4 @@
-AeroCentrix V2.102
+AeroCentrix V2.103
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -25,3 +25,5 @@ Fin séparateur entre la position du lest saisie et la position nécessaire calc
 Séparateur continu sur toute la largeur des colonnes du lest pour distinguer saisies et résultats ; séparateurs adaptés à la disposition verticale sur smartphone.
 
 Écart nécessaire en G calculé même avec G = 0 : utilise F s’il est positif, sinon la masse recommandée en F pour proposer le décalage de correction.
+
+Chapitre G = 0 ajouté à l’aide dans les quatre langues : lest sur l’axe, résultat de correction latérale, convention droite/gauche et poids utilisé.
