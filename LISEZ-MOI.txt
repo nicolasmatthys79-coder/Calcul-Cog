@@ -1,4 +1,4 @@
-AeroCentrix V2.107
+AeroCentrix V2.108
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -35,3 +35,5 @@ Les traits de cotation du lest sont interrompus au passage des textes A et B, av
 Interruption des traits du lest étendue aux valeurs de la cote D, en plus de A et B.
 
 La ligne de cote du lest s’interrompt aussi au passage du poids affiché dans la balance gauche.
+
+Aide : explications sur les arrondis et les écarts résiduels des balances Avec lest, exemple chiffré et distinction avec le basculement, dans les quatre langues.
