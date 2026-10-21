@@ -1,4 +1,4 @@
-AeroCentrix V2.110
+AeroCentrix V2.111
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -41,3 +41,5 @@ Aide : explications sur les arrondis et les écarts résiduels des balances Avec
 Coche verte à droite du CoG depuis le bord d’attaque lorsque l’erreur affichée atteint 0 mm (tolérance de 0,05 mm).
 
 Consigne sous les poids mesurés de l’avion supprimée.
+
+Coche verte à côté de Centré sur l’axe du fuselage lorsque le centrage latéral est atteint.
