@@ -1,4 +1,4 @@
-AeroCentrix V2.69
+AeroCentrix V2.78
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -42,3 +42,21 @@ Ordinateur : bandeau de l’illustration aligné aussi hors plein écran (train,
 Largeur du rectangle CoG recherché ajustée au texte, sans étirement dans le bandeau.
 
 Rectangle CoG recherché centré dans le bandeau, largeur ajustée au texte, sur ordinateur et en plein écran.
+
+Sous E : position du lest nécessaire depuis le nez pour atteindre le CoG recherché avec le poids saisi en F. Même calcul sous E′ avec F′ ; chaque calcul tient compte de l’autre lest actif. Valeur conseillée uniquement, sans modification automatique du champ.
+
+Résultats intégrés directement dans les colonnes E, F et G pour chaque lest, sans rangée séparée en dessous.
+
+Espacement entre textes et valeurs des recommandations du lest réduit.
+
+Léger espacement ajouté entre les textes et les valeurs du lest.
+
+Activation du deuxième lest : avertissement uniquement si le premier lest actif atteint déjà le CoG recherché et le centrage latéral (écarts inférieurs à 0,05 mm). Le mode deux lests reste accessible.
+
+Message d’avertissement raccourci : Modèle déjà équilibré.
+
+Avertissement Modèle déjà équilibré affiché dans une fenêtre de l’application sans l’en-tête du navigateur Cette page indique.
+
+E = 0 mm signifie lest au nez : masse positive prise en compte dans les calculs. Le poids nécessaire au nez est affiché ; il est identifié comme poids minimum pour avancer le CoG recherché.
+
+Paragraphe ajouté à Comment ça marche : corrections avec E = 0 et F = 0, traduit dans les quatre langues.
