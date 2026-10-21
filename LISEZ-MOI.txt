@@ -1,4 +1,4 @@
-AeroCentrix V2.103
+AeroCentrix V2.107
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -27,3 +27,11 @@ Séparateur continu sur toute la largeur des colonnes du lest pour distinguer sa
 Écart nécessaire en G calculé même avec G = 0 : utilise F s’il est positif, sinon la masse recommandée en F pour proposer le décalage de correction.
 
 Chapitre G = 0 ajouté à l’aide dans les quatre langues : lest sur l’axe, résultat de correction latérale, convention droite/gauche et poids utilisé.
+
+Cadenas à gauche de chaque variable du lest : E, F, G, E′, F′ et G′. Un clic verrouille/déverrouille indépendamment ; saisie et déplacement tactile ne peuvent plus changer une valeur verrouillée. Les calculs continuent et les cadenas sont enregistrés avec chaque modèle.
+
+Les traits de cotation du lest sont interrompus au passage des textes A et B, avec une marge de lisibilité recalculée lors des mises à jour.
+
+Interruption des traits du lest étendue aux valeurs de la cote D, en plus de A et B.
+
+La ligne de cote du lest s’interrompt aussi au passage du poids affiché dans la balance gauche.
