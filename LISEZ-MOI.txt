@@ -1,4 +1,4 @@
-AeroCentrix V2.78
+AeroCentrix V2.81
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -60,3 +60,9 @@ Avertissement Modèle déjà équilibré affiché dans une fenêtre de l’appli
 E = 0 mm signifie lest au nez : masse positive prise en compte dans les calculs. Le poids nécessaire au nez est affiché ; il est identifié comme poids minimum pour avancer le CoG recherché.
 
 Paragraphe ajouté à Comment ça marche : corrections avec E = 0 et F = 0, traduit dans les quatre langues.
+
+Aide sur les corrections du lest répartie en cinq petits chapitres avec titres et encadrés bleus, dans les quatre langues.
+
+Les choix du menu organisés en petits chapitres avec titres et encadrés bleus, dans les quatre langues.
+
+Aide harmonisée : encadrés bleus retirés, titres sobres, espacements réguliers et séparateurs fins.
