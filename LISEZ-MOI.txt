@@ -1,4 +1,4 @@
-AeroCentrix V2.65
+AeroCentrix V2.69
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
@@ -34,3 +34,11 @@ Tactile Dimensions : appui simple sur un carré bleu du lest ouvre son poids F o
 Plein écran : CoG recherché, train et état tactile alignés sur une seule ligne en haut pour augmenter l’espace du dessin.
 
 Groupe des balances Avec lest remonté : titre aligné avec le haut de la cote B (vue de dessus) ou son libellé (planeur).
+
+Plein écran : bandeau unique pour les informations de train, CoG et tactile, toutes de hauteur 32 px et alignées sur la même rangée.
+
+Ordinateur : bandeau de l’illustration aligné aussi hors plein écran (train, CoG recherché et tactile).
+
+Largeur du rectangle CoG recherché ajustée au texte, sans étirement dans le bandeau.
+
+Rectangle CoG recherché centré dans le bandeau, largeur ajustée au texte, sur ordinateur et en plein écran.
