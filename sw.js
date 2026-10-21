@@ -1,4 +1,4 @@
-const CACHE='aerobalance-offline-v2.90';
+const CACHE='aerobalance-offline-v2.101';
 const APP=new URL('index.html',self.registration.scope).href;
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const response=await fetch(APP,{cache:'reload'});if(!response.ok)throw new Error('Application unavailable');

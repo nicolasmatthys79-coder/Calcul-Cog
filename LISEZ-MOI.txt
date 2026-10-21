@@ -1,84 +1,25 @@
-AeroCentrix V2.90
+AeroCentrix V2.101
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
-CoG recherché et erreur affichés dans le cadre du planeur comme dans celui de l’avion, y compris avec le tactile désactivé. Erreur en rouge, encadré centré au-dessus du dessin.
+Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
+Dim : toucher les cotes, le CoG recherché, les poids mesurés ou le carré du lest pour saisir une valeur.
+Position : déplacer les roues/balances et toucher les poids mesurés pour les modifier.
+Off : aucune modification par le dessin. Le zoom et le déplacement de la vue restent accessibles. Les choix du menu sont synchronisés.
 
-Coche retirée du texte Tactile On dans l’illustration.
+Le symbole ⚖ représente les poids dans le libellé du mode.
 
-Comment ça marche : explications des choix du menu, modes tactiles Dimensions et Position roues, zoom et déplacement, unités, fichiers, PDF, langues et calcul de l’aile, dans les quatre langues.
+Balance de la justice ⚖︎ en présentation texte, sans emoji coloré.
 
-Consigne sous les poids mesurés du planeur supprimée, ainsi que son encadré vide.
+Symbole de la balance agrandi à 24 px dans le bouton tactile.
 
-Cliquer, toucher ou accéder au clavier à un champ numérique sélectionne sa valeur pour la remplacer directement.
+Tactile Dim : aucune modification des poids. Les poids des balances et des lests sont modifiables uniquement dans Tactile Position/⚖︎.
 
-Description Planeur vu de côté supprimée et séparateur sous la description retiré.
+Comment ça marche actualisé dans les quatre langues : trois modes tactiles exclusifs, poids réservés à Position/⚖︎, bouton cyclique, zoom et plein écran.
 
-Flèche de réinitialisation du cadrage déplacée en haut à gauche de l’illustration ; indication du train décalée pour éviter le chevauchement.
+Tactile Position/⚖︎ : les deux lests peuvent être déplacés en glissant leur carré bleu. Un appui sans déplacement permet de modifier leur poids.
 
-Message Impossible à cette position E ou E′ affiché sur plusieurs lignes dans sa colonne pour éviter le chevauchement avec le texte à gauche.
+À E = 0, le poids d’équilibre arrondi selon l’unité affichée est reconnu : position conseillée 0 mm au lieu d’un message impossible dû au seul arrondi. Valable aussi pour E′.
 
-Bouton de réduction aligné sur la même hauteur que les boutons Avion et Planeur (40 px).
+Fin séparateur entre la position du lest saisie et la position nécessaire calculée, pour E et E′.
 
-Coche affichée devant le choix actif Petit Avion ou Gros Avion dans le menu.
-
-Libellé corde moyenne corrigé au singulier.
-
-Bouton plein écran en bas à droite : affiche uniquement le cadre de l’illustration. Smartphone en portrait : rotation 90°. Second appui : retour à la page normale et à sa position de défilement.
-
-Cadre d’illustration à hauteur automatique selon sa largeur et les proportions du dessin, sans hauteur minimale fixe. Adaptation avion et planeur ; plein écran conservé.
-
-Zoom en mode normal : le cadrage vertical inclut toute la hauteur du dessin et des cotes. Le cadre grandit avec le zoom pour garder la queue visible. Le plein écran conserve sa hauteur d’écran.
-
-Tactile Dimensions : appui simple sur un carré bleu du lest ouvre son poids F ou F′ ; glisser le carré conserve le déplacement du lest.
-
-Plein écran : CoG recherché, train et état tactile alignés sur une seule ligne en haut pour augmenter l’espace du dessin.
-
-Groupe des balances Avec lest remonté : titre aligné avec le haut de la cote B (vue de dessus) ou son libellé (planeur).
-
-Plein écran : bandeau unique pour les informations de train, CoG et tactile, toutes de hauteur 32 px et alignées sur la même rangée.
-
-Ordinateur : bandeau de l’illustration aligné aussi hors plein écran (train, CoG recherché et tactile).
-
-Largeur du rectangle CoG recherché ajustée au texte, sans étirement dans le bandeau.
-
-Rectangle CoG recherché centré dans le bandeau, largeur ajustée au texte, sur ordinateur et en plein écran.
-
-Sous E : position du lest nécessaire depuis le nez pour atteindre le CoG recherché avec le poids saisi en F. Même calcul sous E′ avec F′ ; chaque calcul tient compte de l’autre lest actif. Valeur conseillée uniquement, sans modification automatique du champ.
-
-Résultats intégrés directement dans les colonnes E, F et G pour chaque lest, sans rangée séparée en dessous.
-
-Espacement entre textes et valeurs des recommandations du lest réduit.
-
-Léger espacement ajouté entre les textes et les valeurs du lest.
-
-Activation du deuxième lest : avertissement uniquement si le premier lest actif atteint déjà le CoG recherché et le centrage latéral (écarts inférieurs à 0,05 mm). Le mode deux lests reste accessible.
-
-Message d’avertissement raccourci : Modèle déjà équilibré.
-
-Avertissement Modèle déjà équilibré affiché dans une fenêtre de l’application sans l’en-tête du navigateur Cette page indique.
-
-E = 0 mm signifie lest au nez : masse positive prise en compte dans les calculs. Le poids nécessaire au nez est affiché ; il est identifié comme poids minimum pour avancer le CoG recherché.
-
-Paragraphe ajouté à Comment ça marche : corrections avec E = 0 et F = 0, traduit dans les quatre langues.
-
-Aide sur les corrections du lest répartie en cinq petits chapitres avec titres et encadrés bleus, dans les quatre langues.
-
-Les choix du menu organisés en petits chapitres avec titres et encadrés bleus, dans les quatre langues.
-
-Aide harmonisée : encadrés bleus retirés, titres sobres, espacements réguliers et séparateurs fins.
-
-Smartphone : police des résultats de position, masse et écart nécessaires harmonisée à 16 px, même graisse et même interligne pour les deux lests.
-
-Aide Choisir le modèle actualisée : Avion / Planeur, détection automatique du train selon A et B, création via +/−, dans les quatre langues.
-
-Barres de défilement bleues assorties à l’interface, selon la prise en charge du navigateur.
-
-Affichage permanent demandé pour la barre de défilement de la page et des grandes fenêtres, avec emplacement réservé. Les réglages système des barres superposées peuvent primer.
-
-Retour à la présentation antérieure : barre de défilement intégrée de V2.86 retirée.
-
-Smartphone : unité mm maintenue à côté de l’erreur ; taille du texte adaptée à la largeur du rectangle CoG.
-
-Bandeau toujours ordonné : flèche, type de train, CoG recherché / erreur, tactile. Mise en page adaptée aussi au smartphone.
-
-Si le cadre d’illustration est étroit, le rectangle CoG recherché / erreur passe sur la ligne du dessous et reste centré.
+Séparateur continu sur toute la largeur des colonnes du lest pour distinguer saisies et résultats ; séparateurs adaptés à la disposition verticale sur smartphone.
