@@ -1,8 +1,6 @@
-AeroCentrix V2.161
+AeroCentrix V2.163
 
-INSTALLATION SUR UN HÉBERGEMENT
-Décompressez l’archive et transférez tous les fichiers de ce dossier dans le même répertoire de votre hébergement. Ouvrez ensuite index.html depuis votre adresse Internet.
-Utilisez HTTPS pour permettre le fonctionnement hors connexion après un premier chargement.
-Conservez les noms des fichiers et les icônes avec index.html, manifest.webmanifest et sw.js.
+Décompressez cette archive et transférez tous ses fichiers dans le même dossier de votre hébergement. Ouvrez index.html depuis votre adresse Internet.
+Utilisez HTTPS pour permettre le fonctionnement hors connexion après le premier chargement.
 
-Cette version contient les dernières modifications de l’application, notamment le cadrage de la cote C et le panneau de lest en plein écran sur ordinateur.
+Cette version affiche le panneau Lest de correction en plein écran sur smartphone. Le panneau reste fixe à droite lorsque l’avion est déplacé ou zoomé.
