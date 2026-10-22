@@ -1,5 +1,5 @@
-AeroCentrix V3.1
+AeroCentrix V3.2
 
-Décompressez l’archive et transférez tous les fichiers dans le même répertoire de votre hébergement. Ouvrez index.html depuis votre adresse Internet. Utilisez HTTPS pour le fonctionnement hors connexion après le premier chargement.
+Décompressez cette archive et transférez tous ses fichiers dans le même répertoire de votre hébergement. Ouvrez index.html depuis votre adresse Internet. Utilisez HTTPS pour le fonctionnement hors connexion après le premier chargement.
 
-Les écarts latéraux G et G′ sont verrouillés à chaque ouverture de l’application.
+Corrections du défilement tactile du panneau en plein écran et fermeture du clavier en touchant l’illustration.
