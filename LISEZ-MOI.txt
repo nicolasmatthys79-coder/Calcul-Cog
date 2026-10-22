@@ -1,4 +1,4 @@
-AeroCentrix V2.122
+AeroCentrix V2.128
 
 Déposez tous les fichiers ensemble sur votre hébergement HTTPS.
 Le bouton en haut à droite de l’illustration alterne Tactile Dim → Tactile Position/⚖ → Tactile Off.
@@ -58,10 +58,22 @@ Balances de pesée et Avec lest : taille affichée fixe indépendante de l’éc
 
 Mention Schéma indicatif fixée tout en bas du cadre d’illustration, indépendante du dessin et du zoom.
 
-V2.122 : placement automatique des libellés de cotes pour éviter les chevauchements entre cotes et avec les balances. Traits de rappel pour les libellés déplacés.
+V2.128 : placement automatique des libellés de cotes pour éviter les chevauchements entre cotes et avec les balances. Traits de rappel pour les libellés déplacés.
 
 Police des poids ajustée automatiquement à la largeur et à la hauteur des afficheurs de balances, pour tous les aéronefs.
 
 Correction du cadrage sur smartphone : séparation du placement des cotes et du calcul de l’échelle.
 
 Balances et leurs textes proportionnés à la largeur disponible, avec remise à zéro de leur transformation avant cadrage.
+
+Menu Partager avec icône : partage natif du lien sur Internet, copie du lien en secours. En ouverture locale, partage ou téléchargement du fichier HTML.
+
+Icône Partager : trois points reliés en bleu.
+
+Retrait de Créer un PDF du menu.
+
+Quatre drapeaux affichés juste après Langue dans le menu.
+
+Les libellés des cotes conservent leur taille affichée indépendamment de la dimension de l’avion.
+
+Conservation de la police précédente des cotes : taille initiale mémorisée et maintenue pendant les changements de dimensions.
