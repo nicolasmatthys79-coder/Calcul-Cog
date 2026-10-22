@@ -1,3 +1,3 @@
-AeroCentrix V2.137
-La longueur du fuselage et la position de l’empennage suivent la position des roues, avec une marge derrière la roulette de queue. La cote C reste sous le dessin.
+AeroCentrix V2.142
+Aide actualisée : partage, langues, unités, cadenas G/G′, deux lests et prise en compte du lest au nez. Traductions françaises, allemandes, italiennes et anglaises.
 Déposer tous les fichiers de ce dossier sur votre hébergement.
