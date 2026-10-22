@@ -1,3 +1,8 @@
-AeroCentrix V2.142
-Aide actualisée : partage, langues, unités, cadenas G/G′, deux lests et prise en compte du lest au nez. Traductions françaises, allemandes, italiennes et anglaises.
-Déposer tous les fichiers de ce dossier sur votre hébergement.
+AeroCentrix V2.161
+
+INSTALLATION SUR UN HÉBERGEMENT
+Décompressez l’archive et transférez tous les fichiers de ce dossier dans le même répertoire de votre hébergement. Ouvrez ensuite index.html depuis votre adresse Internet.
+Utilisez HTTPS pour permettre le fonctionnement hors connexion après un premier chargement.
+Conservez les noms des fichiers et les icônes avec index.html, manifest.webmanifest et sw.js.
+
+Cette version contient les dernières modifications de l’application, notamment le cadrage de la cote C et le panneau de lest en plein écran sur ordinateur.
