@@ -1,6 +1,5 @@
-AeroCentrix V2.163
+AeroCentrix V3.1
 
-Décompressez cette archive et transférez tous ses fichiers dans le même dossier de votre hébergement. Ouvrez index.html depuis votre adresse Internet.
-Utilisez HTTPS pour permettre le fonctionnement hors connexion après le premier chargement.
+Décompressez l’archive et transférez tous les fichiers dans le même répertoire de votre hébergement. Ouvrez index.html depuis votre adresse Internet. Utilisez HTTPS pour le fonctionnement hors connexion après le premier chargement.
 
-Cette version affiche le panneau Lest de correction en plein écran sur smartphone. Le panneau reste fixe à droite lorsque l’avion est déplacé ou zoomé.
+Les écarts latéraux G et G′ sont verrouillés à chaque ouverture de l’application.
