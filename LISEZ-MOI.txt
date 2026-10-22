@@ -1,5 +1,5 @@
-AeroCentrix V3.2
+AeroCentrix V3.3
 
 Décompressez cette archive et transférez tous ses fichiers dans le même répertoire de votre hébergement. Ouvrez index.html depuis votre adresse Internet. Utilisez HTTPS pour le fonctionnement hors connexion après le premier chargement.
 
-Corrections du défilement tactile du panneau en plein écran et fermeture du clavier en touchant l’illustration.
+Le panneau des variables laisse le bouton de sortie du plein écran dégagé.
